@@ -1,5 +1,12 @@
 {
-    "keys": [
-        "asd"
+    "keys": [{
+            "key": "asd",
+            "serial": "178BFBFF00870F10"
+        },
+
+        {
+            "key": "test",
+            "serial": "178BFBFF00870F10"
+        }
     ]
 }
