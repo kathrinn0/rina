@@ -1,28 +1,32 @@
 {
     "keys": [{
             "key": "6Nx0HXEqopYlf4wIrBGnXlqNMNr8jygi",
-            "serial": "178BFBFF00870F10"
+            "serial": "178BFBFF00870F10",
+            "end": "27.06.2023"
         },
 
         {
             "key": "test",
-            "serial": "178BFBFF00870F1"
+            "serial": "178BFBFF00870F1",
+            "end": "27.06.2023"
         },
 
         {
              "key": "hau",
-              "serial": "178BFBFF00870F10",
-              "end": "27.06.2023"
+             "serial": "178BFBFF00870F10",
+             "end": "27.06.2023"
         },
 
         {
             "key": "test",
-            "serial": "178BFBFF00870F1"
+            "serial": "178BFBFF00870F1",
+            "end": "27.06.2023"
         },
 
         {
             "key": "test",
-            "serial": "178BFBFF00870F1"
+            "serial": "178BFBFF00870F1",
+            "end": "27.06.2023"
         }
     ]
 }
